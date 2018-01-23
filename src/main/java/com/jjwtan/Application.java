@@ -18,8 +18,7 @@ public class Application {
         List<Card> cards = initializer.processCards();
 
         Calculator calculator = new Calculator(cards);
-        PrintHelper.printMultiplierResults(calculator.getMultipliers());
-        System.out.println(MapUtil.sortByValue(calculator.getMultipliers()));
+        PrintHelper.printMultiplierResults(MapUtil.sortByValue(calculator.getMultipliers()));
 
         Organizer organizer = new Organizer(cards);
         PrintHelper.printCardsOf(organizer.getAllOfCategory("Restaurant"),"Restaurant");

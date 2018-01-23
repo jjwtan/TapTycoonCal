@@ -29,7 +29,6 @@ public class PrintHelper {
     }
 
     public static void printMultiplierResults(Map<String, BigDecimal> result) {
-        MapUtil.sortByValue(result);
         result.forEach((x, y) -> {
             if (!x.matches("Stack of Bill amount|Stack of Bill chance|Upgrade Cost"))
                 System.out.println(String.format("%-25s", x) + String.format("%12s", y.setScale(3, BigDecimal.ROUND_UP)));
