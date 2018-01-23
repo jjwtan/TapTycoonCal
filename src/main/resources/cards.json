@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Growth Beam",
+    "categoryMultiplierMap": {
+      "All": 1.5,
+      "Theme Park": 2
+    }
+  },
+  {
+    "name": "Home Brain Freeze",
+    "categoryMultiplierMap": {
+      "All": 1.5,
+      "Upgrade Cost": 0.5
+    }
+  },
+  {
+    "name": "FloatandScrub",
+    "categoryMultiplierMap": {
+      "All": 1.5,
+      "Stack of Bill amount": 1.5,
+      "Restaurant": 1.5
+    }
+  },
+  {
+    "name": "N-wave",
+    "categoryMultiplierMap": {
+      "Restaurant": 7.5
+    }
+  },
+  {
+    "name": "Dark Pot",
+    "categoryMultiplierMap": {
+      "Restaurant": 2
+    }
+  },
+  {
+    "name": "Fork-assist",
+    "categoryMultiplierMap": {
+      "Restaurant": 2
+    }
+  },
+  {
+    "name": "Light Carver",
+    "categoryMultiplierMap": {
+      "Restaurant": 2
+    }
+  },
+  {
+    "name": "Mental Menu",
+    "categoryMultiplierMap": {
+      "Restaurant": 3
+    }
+  },
+  {
+    "name": "T to the three",
+    "categoryMultiplierMap": {
+      "Post Office": 2
+    }
+  },
+  {
+    "name": "Big Banger",
+    "categoryMultiplierMap": {
+      "Power Plant": 2
+    }
+  },
+  {
+    "name": "Rise and Rest",
+    "categoryMultiplierMap": {
+      "Hotel": 2
+    }
+  },
+  {
+    "name": "Drone Tender",
+    "categoryMultiplierMap": {
+      "Hotel": 3
+    }
+  },
+  {
+    "name": "Smart-aid",
+    "categoryMultiplierMap": {
+      "Department Store": 3
+    }
+  },
+  {
+    "name": "Soul Real",
+    "categoryMultiplierMap": {
+      "Theme Park": 2.4
+    }
+  },
+  {
+    "name": "BankBots",
+    "categoryMultiplierMap": {
+      "Bank": 2.4
+    }
+  },
+  {
+    "name": "Safe and Sount",
+    "categoryMultiplierMap": {
+      "Bank": 2
+    }
+  },
+  {
+    "name": "Rage measure",
+    "categoryMultiplierMap": {
+      "Media Center": 2
+    }
+  },
+  {
+    "name": "V-broadcaster",
+    "categoryMultiplierMap": {
+      "Media Center": 2
+    }
+  },
+  {
+    "name": "Tell All",
+    "categoryMultiplierMap": {
+      "Media Center": 3
+    }
+  },
+  {
+    "name": "Karma r us",
+    "categoryMultiplierMap": {
+      "Stack of Bill chance": 1.4
+    }
+  },
+  {
+    "name": "T-Paper",
+    "categoryMultiplierMap": {
+      "Restaurant": 2,
+      "Media Center": 2
+    }
+  },
+  {
+    "name": "Meet your meal",
+    "categoryMultiplierMap": {
+      "Restaurant": 1.5,
+      "Entertainment": 1.5
+    }
+  },
+  {
+    "name": "Brainfood",
+    "categoryMultiplierMap": {
+      "Restaurant": 1.5,
+      "Entertainment": 2
+    }
+  },
+  {
+    "name": "Clara-paper",
+    "categoryMultiplierMap": {
+      "Post Office": 1.5,
+      "Power Plant": 1.5
+    }
+  },
+  {
+    "name": "E-Birds",
+    "categoryMultiplierMap": {
+      "Post Office": 1.5,
+      "Power Plant": 1.5
+    }
+  },
+  {
+    "name": "Mind Mailer",
+    "categoryMultiplierMap": {
+      "Post Office": 1.5,
+      "Power Plant": 2
+    }
+  },
+  {
+    "name": "BOgoneBots",
+    "categoryMultiplierMap": {
+      "Hotel": 1.5,
+      "Department Store": 1.5
+    }
+  },
+  {
+    "name": "E-easychair",
+    "categoryMultiplierMap": {
+      "Hotel": 1.5,
+      "Department Store": 1.5
+    }
+  },
+  {
+    "name": "Key caller",
+    "categoryMultiplierMap": {
+      "Hotel": 1.5,
+      "Department Store": 2
+    }
+  },
+  {
+    "name": "Rockem Rockets",
+    "categoryMultiplierMap": {
+      "Armory": 1.5,
+      "Theme Park": 1.5
+    }
+  },
+  {
+    "name": "Sock and Store",
+    "categoryMultiplierMap": {
+      "Armory": 1.5,
+      "Theme Park": 1.5
+    }
+  },
+  {
+    "name": "Lie Guy",
+    "categoryMultiplierMap": {
+      "Bank": 1.5,
+      "Media Center": 1.5
+    }
+  },
+  {
+    "name": "G-loaners",
+    "categoryMultiplierMap": {
+      "Bank": 1.5,
+      "Media Center": 1.5
+    }
+  },
+  {
+    "name": "Rainmaker",
+    "categoryMultiplierMap": {
+      "Bank": 1.5,
+      "Media Center": 2
+    }
+  }
+]
